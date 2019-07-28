@@ -1,2 +1,2 @@
 # SelectionTest
-Selection Test
+Selection Test - a simple maven project
